@@ -33,14 +33,14 @@ Nueva idea para la disposición y uso del gamepad
 
 Solo los cuatros botones de flecha, dispuestos como la imagen de la wiki (igual que en un teclado).
 
-Boton flechita izquierda
-------------------------
+Tecla flechita arriba
+----------------------
 
 Si se pulsa y libera esta tecla funcionaria de un modo (un codigo, por ejemplo, flechita arriba).
 
 Si se pulsa y se deja pulsado por al menos un segundo tendría otro modo (otro codigo, por ejemplo, laser encendido). Siguiendo el ejemplo, al liberar apaga el laser.
 
-Boton flechita izquierda
+Tecla flechita izquierda
 ------------------------
 
 Si se pulsa y libera esta tecla funcionaria de un modo (un codigo, por ejemplo, flechita izquierda).
