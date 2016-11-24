@@ -7,6 +7,7 @@ Dependencias : libopencv-dev (y libcv-dev?)
 
 xdotool es el comando que se puede utilizar para inyectar las
 pulsaciones del teclado o movimientos/clicks del mouse.
+
 La arquitectura conversada es :
 
 - El cuchuflín wireless envía codigos de los diferentes botones 
